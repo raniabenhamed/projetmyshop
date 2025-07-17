@@ -1,6 +1,6 @@
 # Site e-commerce de cosmétiques – Stage chez Macrosol
 Projet réalisé pendant un stage de 6 semaines chez Macrosol.
-J’ai développé un site e-commerce pour présenter et vendre des produits cosmétiques. J’ai utilisé un modèle de site existant que j’ai adapté, puis connecté à une base de données.
+J’ai développé un site e-commerce pour présenter et vendre des produits cosmétiques. J’ai utilisé un modèle de site (uniquement front-end) existant que j’ai adapté, puis connecté à une base de données.
 
 ## Fonctions principales
 Inscription et connexion des utilisateurs
